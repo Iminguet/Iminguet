@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Isra.
 - 👀 I’m interested in frontend and UX.
-- 🌱 I’m currently learning Angular.
-- 💞️ I’m looking to collaborate on Javascript projects
+- 💞️ I’m looking to collaborate on VUEJS projects
 - 📫 How to reach me i.minguet@hotmail.com
 
 <!---
